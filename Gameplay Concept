@@ -1,0 +1,9 @@
+the game is played with two players. P1 (green) uses "aswd" and p2 (blue) uses arrow keys for movement.
+the aim is to fill most area with their respective colour.
+there are difernt obstacles like pitfalls and opposite player that attacks you. 
+the game starts with 100 second timer and 3 lives for each player.
+if the player falls down the pit or go out of boundary, a life is lost.
+also the paintmeter gets finished after a certain limit. to refill you have to go to the startng point.
+There are additional collectibles like extra life and paint refill power ups which spawn every five seconds and disaapears after 10 seconds.
+The player to fill max amount in gven time wins
+if the player lose all its lives, the opponent automatically wins.
